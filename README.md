@@ -5,7 +5,7 @@
 Currently attending a 2 year Frontend course at Noroff School of Technology and Digital Media.
 
 :derelict_house: I'm located in Skogn, Norway </br>
-:computer: My Portfolio will be at https://portfolio.joakimkjode.com</br> 
+:computer: My Portfolio is in the making </br> 
 :envelope: Contact me at joakimkjode@gmail.com</br>
 
 
