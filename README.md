@@ -15,9 +15,10 @@ I have 2 years with Frontend course at Noroff School of Technology and Digital M
 
 :derelict_house: I'm located in Skogn, Norway </br>
 :computer: My Portfolio is in the making </br> 
+
+### Currently looking for a job
+
 :envelope: Contact me at joakimkjode@gmail.com</br>
-
-
 
 
 <!--
